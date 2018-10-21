@@ -8,7 +8,7 @@ Enumerate the domain !
 ![Enumeration](https://image.prntscr.com/image/as_yrAx_TuCLtkyWK_4ebQ.png)
 
 # Alternative Download
-[MEGA](https://mega.nz/#!3AFFBQKQ!5oXRYIjlG2ZzOItI_NCWT61pQUv1q4C0brBXGorh05g)
+[MEGA](https://mega.nz/#!Td1ziaTI!JAi6GCD8zZJZMVdQAgbnWw9mrlyH-hpN3nnGCywPvHQ)
 
 # Web API
 ~Soon
