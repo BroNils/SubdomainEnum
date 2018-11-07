@@ -8,7 +8,7 @@ Enumerate the domain !
 ![Enumeration](https://image.prntscr.com/image/as_yrAx_TuCLtkyWK_4ebQ.png)
 
 # Alternative Download
-[MEGA](https://mega.nz/#!bANWjCqR!KmtQr4uYdoNroGcFR1hK-G1AWoKhUsNyXxBqMsIdThM) [Mediafire](https://www.mediafire.com/file/oczmvxmf4oxi915/SubdomainEnum.exe/file)
+[MEGA](https://mega.nz/#!bANWjCqR!KmtQr4uYdoNroGcFR1hK-G1AWoKhUsNyXxBqMsIdThM) or [Mediafire](https://www.mediafire.com/file/oczmvxmf4oxi915/SubdomainEnum.exe/file)
 
 # Web API
 ~Soon
