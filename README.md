@@ -14,7 +14,7 @@ Enumerate the domain !
 ~Soon
 
 # Privacy Policy
-Please note that, this program "SubdomainEnumeration" was created to make it easier for you to find a subdomain of a site. And I did not insert any virus in this program, for proof please look at [Virustotal](https://www.virustotal.com/#/file/41e5cf0b0c044fa48cdae4cb002b81b3bf6553a8274edf1dc1bf11c412efa0f9/detection)
+Please note that, this program "SubdomainEnumeration" was created to make it easier for you to find a subdomain of a site. And I did not insert any virus in this program, for proof please look at [Virustotal](https://www.virustotal.com/#/file/74608091f211f1b366b850cf5b8cc0010437b4e4689ca0d098b2a739f21142a6/detection)
 
 # Disclaimer
 We are not responsible for any activities carried out using this program.
