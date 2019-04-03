@@ -1,5 +1,8 @@
 # SubdomainEnum
+[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-3%2F70-green.svg)](https://www.virustotal.com/gui/file/8cea759aab90e473c0e3c49ca2446eeb6e534ee3c51c45da3c58793dae8ae1d7/detection) [![Version](https://img.shields.io/badge/release-2.1-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.1)<br><br>
 Enumerate the domain !
+
+----
 
 # Requirement
 [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) or above
