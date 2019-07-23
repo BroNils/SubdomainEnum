@@ -1,5 +1,5 @@
 # SubdomainEnum
-[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-3%2F68-green.svg)](https://www.virustotal.com/gui/file/a204b6d2a8c37ca1b3c056fef1edaac97a2dd84f70ecefcaadc7a06b63bed441/detection) [![Version](https://img.shields.io/badge/release-2.2-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.2)<br><br>
+[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![LICENSE](https://img.shields.io/github/license/GoogleX133/SubdomainEnum.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-3%2F68-green.svg)](https://www.virustotal.com/gui/file/a204b6d2a8c37ca1b3c056fef1edaac97a2dd84f70ecefcaadc7a06b63bed441/detection) [![Version](https://img.shields.io/badge/release-2.2-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.2)<br><br>
 Enumerate the domain !
 
 ----
