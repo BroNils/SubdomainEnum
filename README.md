@@ -1,5 +1,5 @@
 # SubdomainEnum
-[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![LICENSE](https://img.shields.io/github/license/GoogleX133/SubdomainEnum.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-5%2F69-green.svg)](https://www.virustotal.com/gui/file/deb48f30e2d6b0147b40b7a018aae3ff0d1c0f6106ea01cccbef531e091c6ac0/detection) [![Version](https://img.shields.io/badge/release-2.3-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.2)<br><br>
+[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![LICENSE](https://img.shields.io/github/license/GoogleX133/SubdomainEnum.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-5%2F69-green.svg)](https://www.virustotal.com/gui/file/deb48f30e2d6b0147b40b7a018aae3ff0d1c0f6106ea01cccbef531e091c6ac0/detection) [![Version](https://img.shields.io/badge/release-2.3-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.3)<br><br>
 Enumerate the domain !
 
 ----
