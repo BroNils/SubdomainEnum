@@ -14,7 +14,7 @@ Enumerate the domain !
 [MEGA](https://mega.nz/#!GA0VWALI!ttCpOJ70IeHNxAiFzBCLm4O4ml6lsF3FhTVMahbXhmM) or [Mediafire](https://www.mediafire.com/file/b04p789zadoex6g/SubdomainEnum.exe/file)
 
 # Web API
-[Here](http://103.77.207.18:8080/), The site is currently on development and only have one crawler
+[Here](https://subenum.herokuapp.com/), The site is currently on development and only have one crawler
 
 # Privacy Policy
 Please note that, this program "SubdomainEnumeration" was created to make it easier for you to find a subdomain of a site. And I did not insert any virus in this program, for proof please look at [Virustotal](https://www.virustotal.com/gui/file/deb48f30e2d6b0147b40b7a018aae3ff0d1c0f6106ea01cccbef531e091c6ac0/detection)
