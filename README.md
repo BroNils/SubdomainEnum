@@ -1,5 +1,5 @@
 # SubdomainEnum
-[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![LICENSE](https://img.shields.io/github/license/GoogleX133/SubdomainEnum.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-4%2F69-green.svg)](https://www.virustotal.com/gui/file/673eff3027f8ced9066d6dba4380163cadf668af23ed9ef430e529bf5f7f0cc6/detection) [![Version](https://img.shields.io/badge/release-2.4-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.4)<br><br>
+[![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![LICENSE](https://img.shields.io/github/license/GoogleX133/SubdomainEnum.svg)](https://github.com/GoogleX133/SubdomainEnum/blob/master/LICENSE) [![VirusTotal](https://img.shields.io/badge/virustotal-7%2F68-green.svg)](https://www.virustotal.com/gui/file/168172a89e1ae09de24987360a809e0b395cf576b2cc25b16ce93646ad1e9e06/detection) [![Version](https://img.shields.io/badge/release-2.5-1bbc30.svg)](https://github.com/GoogleX133/SubdomainEnum/releases/tag/2.5)<br><br>
 Enumerate the domain !
 
 ----
@@ -17,7 +17,7 @@ Enumerate the domain !
 [Check this out!](https://subenum.herokuapp.com/), The site is currently on development
 
 # Privacy Policy
-Please note that, this program "SubdomainEnumeration" was created to make it easier for you to find a subdomain of a site. And I did not insert any virus in this program, for proof please look at [Virustotal](https://www.virustotal.com/gui/file/673eff3027f8ced9066d6dba4380163cadf668af23ed9ef430e529bf5f7f0cc6/detection)
+Please note that, this program "SubdomainEnumeration" was created to make it easier for you to find a subdomain of a site. And I did not insert any virus in this program, for proof please look at [Virustotal](https://www.virustotal.com/gui/file/168172a89e1ae09de24987360a809e0b395cf576b2cc25b16ce93646ad1e9e06/detection)
 
 # Disclaimer
 I do not responsible for any activities carried out using this program.
