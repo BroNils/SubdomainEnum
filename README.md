@@ -21,3 +21,6 @@ Please note that, this program "SubdomainEnumeration" was created to make it eas
 
 # Disclaimer
 I do not responsible for any activities carried out using this program.
+
+# FYI
+Sometimes i forgot to change the binary information (e.g File version: 2.6.0.0), and i'm sorry for that
